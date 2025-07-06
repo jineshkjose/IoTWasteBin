@@ -15,7 +15,7 @@ A smart waste management system that uses IoT technology to:
 ## Team Structure
 
 ### Team 1: 
-- [Member 1 Name](github-profile-link) - Role/Responsibility
+- [Jobis Bijo](https://github.com/me-jobis) - Role/Responsibility
 - [Member 2 Name](github-profile-link) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
