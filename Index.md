@@ -29,12 +29,4 @@ A smart waste management system that uses IoT technology to:
 - [Member 2 Name](github-profile-link) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
-## Repository Structure
-/iot-waste-bin-collector
-├── /hardware # Hardware designs and schematics
-├── /firmware # Embedded system code
-├── /backend # Cloud/server code
-├── /frontend # Web/mobile application
-├── /docs # Documentation
-├── LICENSE # Project license
-└── README.md # This file
+
