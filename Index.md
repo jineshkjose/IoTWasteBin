@@ -20,12 +20,12 @@ A smart waste management system that uses IoT technology to:
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
 ### Team 2: 
-- [Member 1 Name](https://github.com/adarshts101) - Role/Responsibility
+- [Member 1 Name](github-profile-link) - Role/Responsibility
 - [Member 2 Name](github-profile-link) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
 ### Team 3: 
-- [Adarsh TS](github-profile-link) - Role/Responsibility
+- [Adarsh TS](https://github.com/adarshts101) - Role/Responsibility
 - [Member 2 Name](github-profile-link) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
