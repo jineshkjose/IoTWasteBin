@@ -26,7 +26,7 @@ A smart waste management system that uses IoT technology to:
 
 ### Team 3: 
 - [Adarsh TS](https://github.com/adarshts101) - Role/Responsibility
-- [Member 2 Name](github-profile-link) - Role/Responsibility
+- [Aleena Seby](https://github.com/aleena0109) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
 
