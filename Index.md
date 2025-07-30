@@ -20,7 +20,7 @@ A smart waste management system that uses IoT technology to:
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
 ### Team 2: 
-- [Member 1 Name](github-profile-link) - Role/Responsibility
+- [Donald P Paul](https://github.com/D0n41d) - Role/Responsibility
 - [Member 2 Name](github-profile-link) - Role/Responsibility
 - [Member 3 Name](github-profile-link) - Role/Responsibility
 
